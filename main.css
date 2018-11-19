@@ -1,0 +1,69 @@
+h1 {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  padding: 2rem;
+  font-size: 2rem;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container-menu {
+  border-style: solid;
+  border-width: 0.5px;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 600px;
+  margin-left: 40rem;
+  margin-top: 10rem;
+}
+
+.box-menu {
+  border-style: solid;
+  border-width: 0.5px;
+  display: flex;
+  align-self: auto;
+  justify-content: center;
+  width: 450px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
+
+
+.container-instructions {
+  border-style: solid;
+  border-width: 0.5px;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 400px;
+  margin-left: 40rem;
+  margin-top: 10rem;
+}
+
+.h1-instructions {
+  padding: 2rem;
+  font-size: 2rem;
+  margin-top: 20px;
+  margin-left: 1rem;
+}
+
+.p-instructions {
+  padding: 2rem;
+  font-size: 1rem;
+  margin-top: -10px;
+  margin-left: 1rem;
+}
+
+.back-button {
+  font-size: 2rem;
+  margin-left: 40rem;
+}
